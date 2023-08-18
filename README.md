@@ -1,11 +1,17 @@
 # Group-3-Project-1
 
 Analyzing the Impact of the Pandemic: Movies & Streaming
+
 Jamie Hutton 
+
 Perla Lampinstein 
+
 Stefan Kniejski 
+
 Jerrod Williams
+
 Alexander Chavera
+
 What were the revenues before (pre-2020), during (2020-2021), and after (2022 - current) Covid-19?
 The data shows a drop in revenue for movie theaters during the pandemic, and a steady but slow growth in the years after. During these years the industry only reported a fraction of proceeds from previous years. However, streaming service subscribers kept going up. 
 
